@@ -3,3 +3,5 @@
 **/cert.key
 **/cert.crt
 **/db.sqlite3
+**/*.pyc
+**/__pycache__/
