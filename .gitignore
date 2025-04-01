@@ -2,3 +2,4 @@
 *.json
 **/cert.key
 **/cert.crt
+**/db.sqlite3
